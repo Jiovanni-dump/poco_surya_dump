@@ -1,0 +1,14 @@
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/app/Messages/Messages.apk
+bootimg/16_dtbdump__Gh^K~*:X.dtb
+vendor/lib64/libMegviiFacepp-0.5.2.so
+vendor/etc/camera/megviifacepp_0_5_2_model
+modem.img
+boot.img

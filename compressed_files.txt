@@ -1,0 +1,4 @@
+system/system/priv-app/MiuiCamera/MiuiCamera.apk.xz
+vendor/lib64/libMegviiFacepp-0.5.2.so.xz
+modem.img.xz
+boot.img.xz
